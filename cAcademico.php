@@ -2,6 +2,7 @@
      session_start(); 
      //se hizo una actualizacion del sistema
      //asfasd
+     //willl
     $boton=$_REQUEST['boton'];	
     if($boton=='Guardar')
 	{
